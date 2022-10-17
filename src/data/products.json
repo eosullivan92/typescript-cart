@@ -1,0 +1,222 @@
+[
+	{
+		"id": 1,
+		"artist": "Avantdale Bowling Club",
+		"album": "Trees",
+		"year": "2022",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 47,
+		"quantity": 10,
+        "image_path": {"images": ["/images/music/abc-trees.jpeg"]}
+	},
+	{
+		"id": 2,
+		"artist": "A Tribe Called Quest",
+		"album": "Low End Theory",
+		"year": "1991",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 60,
+		"quantity": 3,
+        "image_path": {"images": ["/images/music/ATCQ-low-end-theory-back.jpeg", "/images/music/ATCQ-low-end-theory-front.jpeg"]}
+	},
+	{
+		"id": 3,
+		"artist": "Blu & Exile",
+		"album": "Below the Heavens",
+		"year": "2007",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 47,
+		"quantity": 5,
+        "image_path": {"images": ["/images/music/blu-exile-below-the-heavens-front.jpeg"]}
+	},
+	{
+		"id": 4,
+		"artist": "Ivan Ave",
+		"album": "Double Goodbyes",
+		"year": "2020",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 47,
+		"quantity": 10,
+        "image_path": {"images": ["/images/music/ivan-ave-front.jpeg"] }
+	},
+	{
+		"id": 5,
+		"artist": "J Dilla",
+		"album": "Donuts",
+		"year": "2006",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 59,
+		"quantity": 5,
+        "image_path": {"images": ["/images/music/jay-dee-donuts-front.jpeg", "/images/music/jay-dee-donuts-back.jpeg"]}
+	},
+	{
+		"id": 6,
+		"artist": "Kofi Stone",
+		"album": "Nobody Cares Till Everybody Does",
+		"year": "2019",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 44,
+		"quantity": 5,
+        "image_path": {"images": ["/images/music/kofi-stone-front.jpeg", "/images/music/kofi-stone-back.jpeg"]}
+	},
+	{
+		"id": 7,
+		"artist": "Little Brother",
+		"album": "The Listening",
+		"year": "2003",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 54,
+		"quantity": 10,
+        "image_path": { "images": ["/images/music/little-brother-the-listening-front.jpeg", "/images/music/little-brother-the-listening-back.jpeg"] }
+	},
+	{
+		"id": 8,
+		"artist": "Nas",
+		"album": "Illmatic",
+		"year": "1994",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 47,
+		"quantity": 3,
+        "image_path": {"images": ["/images/music/nas-illmatic-front.jpeg", "/images/music/nas-illmatic-back.jpeg"]}
+	},
+	{
+		"id": 9,
+		"artist": "People Under The Stairs",
+		"album": "O.S.T",
+		"year": "2002",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 58,
+		"quantity": 2,
+        "image_path": {"images": ["/images/music/people-under-the-stairs-OST.jpeg", "/images/music/people-under-the-stairs-OST-back.jpeg"]}
+	},
+	{
+		"id": 10,
+		"artist": "Royal Flush",
+		"album": "Ghetto Millionaire",
+		"year": "1997",
+		"genre": "hip-hop/rap",
+		"description": "description",
+		"price": 47,
+		"quantity": 1,
+        "image_path": {"images": ["/images/music/royal-flush-ghetto-millionaire-front.jpeg", "/images/music/royal-flush-ghetto-millionaire-back.jpeg"]}
+	},
+	{
+		"id": 11,
+		"artist": "Amen Dunes",
+		"album": "Freedom",
+		"year": "2018",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 10,
+        "image_path": {"images": ["/images/music/amen-dunes-freedom-front.jpeg"] }
+	},
+	{
+		"id": 12,
+		"artist": "Beach Fossils",
+		"album": "Somersault",
+		"year": "2017",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 7,
+        "image_path": {"images": ["/images/music/beach-fossils-front.jpeg", "/images/music/beach-fossils-back.jpeg"] }
+	},
+	{
+		"id": 13,
+		"artist": "Do Nothing",
+		"album": "Zero Dollar Bill",
+		"year": "2020",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 4,
+        "image_path": {"images": ["/images/music/do-nothing-zero-dollar-bill-front.jpeg", "/images/music/do-nothing-zero-dollar-bill-back.jpeg"] }
+	},
+	{
+		"id": 14,
+		"artist": "Floodlights",
+		"album": "From a View",
+		"year": "2020",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 42,
+		"quantity": 5,
+        "image_path": { "images": ["/images/music/floodlights-from-a-view-front.jpeg", "/images/music/floodlights-from-a-view-back.jpeg"] }
+	},
+	{
+		"id": 15,
+		"artist": "Fontaines D.C.",
+		"album": "Dogrel",
+		"year": "2019",
+		"genre": "Post-punk",
+		"description": "description",
+		"price": 47,
+		"quantity": 7,
+        "image_path": { "images": ["/images/music/fontaines-dc-dogrel-front.jpeg", "/images/music/fontaines-dc-dogrel-back.jpeg"]}
+	},
+	{
+		"id": 16,
+		"artist": "Idles",
+		"album": "Joy as an Act of Resistance",
+		"year": "2018",
+		"genre": "Punk Rock",
+		"description": "description",
+		"price": 47,
+		"quantity": 7,
+        "image_path": {"images": ["/images/music/idles-joy-front.jpeg", "/images/music/idles-joy-back.jpeg"] }
+	},
+	{
+		"id": 17,
+		"artist": "Parquet Courts",
+		"album": "Light Up Gold",
+		"year": "2012",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 4,
+        "image_path": {"images": ["/images/music/parquet-courts-light-up-gold.jpeg"]}
+	},
+	{
+		"id": 18,
+		"artist": "Parquet Courts",
+		"album": "Wide Awake",
+		"year": "2018",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 7,
+        "image_path": { "images": ["/images/music/parquet-courts-wide-awake-front.jpeg", "/images/music/parquet-courts-wide-awake-back.jpeg"]}
+	},
+	{
+		"id": 19,
+		"artist": "The Slingers",
+		"album": "One More Day / This Time",
+		"year": "2017",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 35,
+		"quantity": 3,
+        "image_path": {"images": ["/images/music/the-slingers-single-front.jpeg"]}
+	},
+	{
+		"id": 20,
+		"artist": "Yard Act",
+		"album": "The Overload",
+		"year": "2022",
+		"genre": "Indie/Alternative",
+		"description": "description",
+		"price": 47,
+		"quantity": 7,
+        "image_path": {"images": ["/images/music/yard-act-the-overload-front.jpeg", "/images/music/yard-act-the-overload-back.jpeg"] }
+	}
+]
