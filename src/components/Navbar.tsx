@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { useShoppingCart } from '../context/ShoppingCartContext'
 
 export default function Navbar() {
+    const {openCart, cartQuantity} = useShoppingCart()
 	return (
 		<nav className="navbar">
 			<ul className="navlinks">
@@ -15,12 +17,11 @@ export default function Navbar() {
 					<Link to="/store">Store</Link>
 				</li>
 			</ul>
-            <div className="cart-container">
-                <button className="btn btn-rounded">
+            {cartQuantity > 0 && 
+                <button className="btn btn-rounded" onClick={openCart}>
                     <img src="/icons/icon-shopping-cart.svg" alt="" />
-                    <span className="cart-items">3</span>
-                </button>
-            </div>
+                    <span className="cart-items">{cartQuantity}</span>
+                </button>}
 		</nav>
 	)
 }

@@ -5,19 +5,22 @@ import Home from './pages/Home'
 import Store from './pages/Store'
 import About from './pages/About'
 import Navbar from './components/Navbar'
+import { ShoppingCartProvider } from './context/ShoppingCartContext'
 
 function App() {
 	const [count, setCount] = useState(0)
 
 	return (
-		<div className="container">
-            <Navbar />
-			<Routes>
-				<Route path="/" element={<Home />} />
-				<Route path="/store" element={<Store />} />
-				<Route path="/about" element={<About />} />
-			</Routes>
-		</div>
+		<ShoppingCartProvider>
+			<div className="container">
+				<Navbar />
+				<Routes>
+					<Route path="/" element={<Home />} />
+					<Route path="/store" element={<Store />} />
+					<Route path="/about" element={<About />} />
+				</Routes>
+			</div>
+		</ShoppingCartProvider>
 	)
 }
 
