@@ -14,21 +14,21 @@ export default function CartItem({ id, quantity }: CartItemProps) {
 
 	if (item == null) return null
 	return (
-		<div className="cartItemContainer">
-			<img
-				src={item.image_path.images[0]}
-				alt=""
-				style={{ height: '75px', width: '75px' }}
-			/>
+		<div className="cart-item-container">
 			<div className="item-info">
-				<p className="album">
-					{item.album}{' '}
-					{quantity > 1 && (
-						<span className="cart-item-quantity">x{quantity}</span>
-					)}
-				</p>
-				<p className="artist">{item.artist}</p>
-				<p className="price">{formatCurrency(item.price)}</p>
+				<img src={item.image_path.images[0]} alt="" />
+				<div className="item-info">
+					<p className="album">
+						{item.album}{' '}
+						{quantity > 1 && (
+							<span className="cart-item-quantity">
+								x{quantity}
+							</span>
+						)}
+					</p>
+					<p className="artist">{item.artist}</p>
+					<p className="price">{formatCurrency(item.price)}</p>
+				</div>
 			</div>
 			<div className="item-total">
 				<p className="price">{formatCurrency(item.price * quantity)}</p>
@@ -36,7 +36,7 @@ export default function CartItem({ id, quantity }: CartItemProps) {
 					className="btn remove-btn"
 					onClick={() => removeFromCart(item.id)}
 				>
-					&times;
+					Remove
 				</button>
 			</div>
 		</div>

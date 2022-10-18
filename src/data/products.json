@@ -8,18 +8,7 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 10,
-        "image_path": {"images": ["/images/music/abc-trees.jpeg"]}
-	},
-	{
-		"id": 2,
-		"artist": "A Tribe Called Quest",
-		"album": "Low End Theory",
-		"year": "1991",
-		"genre": "hip-hop/rap",
-		"description": "description",
-		"price": 60,
-		"quantity": 3,
-        "image_path": {"images": ["/images/music/ATCQ-low-end-theory-back.jpeg", "/images/music/ATCQ-low-end-theory-front.jpeg"]}
+		"image_path": { "images": ["/images/music/abc-trees.jpeg"] }
 	},
 	{
 		"id": 3,
@@ -30,7 +19,9 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 5,
-        "image_path": {"images": ["/images/music/blu-exile-below-the-heavens-front.jpeg"]}
+		"image_path": {
+			"images": ["/images/music/blu-exile-below-the-heavens-front.jpeg"]
+		}
 	},
 	{
 		"id": 4,
@@ -41,7 +32,7 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 10,
-        "image_path": {"images": ["/images/music/ivan-ave-front.jpeg"] }
+		"image_path": { "images": ["/images/music/ivan-ave-front.jpeg"] }
 	},
 	{
 		"id": 5,
@@ -52,7 +43,12 @@
 		"description": "description",
 		"price": 59,
 		"quantity": 5,
-        "image_path": {"images": ["/images/music/jay-dee-donuts-front.jpeg", "/images/music/jay-dee-donuts-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/jay-dee-donuts-front.jpeg",
+				"/images/music/jay-dee-donuts-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 6,
@@ -63,7 +59,12 @@
 		"description": "description",
 		"price": 44,
 		"quantity": 5,
-        "image_path": {"images": ["/images/music/kofi-stone-front.jpeg", "/images/music/kofi-stone-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/kofi-stone-front.jpeg",
+				"/images/music/kofi-stone-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 7,
@@ -74,7 +75,12 @@
 		"description": "description",
 		"price": 54,
 		"quantity": 10,
-        "image_path": { "images": ["/images/music/little-brother-the-listening-front.jpeg", "/images/music/little-brother-the-listening-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/little-brother-the-listening-front.jpeg",
+				"/images/music/little-brother-the-listening-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 8,
@@ -85,7 +91,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 3,
-        "image_path": {"images": ["/images/music/nas-illmatic-front.jpeg", "/images/music/nas-illmatic-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/nas-illmatic-front.jpeg",
+				"/images/music/nas-illmatic-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 9,
@@ -96,7 +107,12 @@
 		"description": "description",
 		"price": 58,
 		"quantity": 2,
-        "image_path": {"images": ["/images/music/people-under-the-stairs-OST.jpeg", "/images/music/people-under-the-stairs-OST-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/people-under-the-stairs-OST.jpeg",
+				"/images/music/people-under-the-stairs-OST-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 10,
@@ -107,7 +123,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 1,
-        "image_path": {"images": ["/images/music/royal-flush-ghetto-millionaire-front.jpeg", "/images/music/royal-flush-ghetto-millionaire-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/royal-flush-ghetto-millionaire-front.jpeg",
+				"/images/music/royal-flush-ghetto-millionaire-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 11,
@@ -118,7 +139,9 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 10,
-        "image_path": {"images": ["/images/music/amen-dunes-freedom-front.jpeg"] }
+		"image_path": {
+			"images": ["/images/music/amen-dunes-freedom-front.jpeg"]
+		}
 	},
 	{
 		"id": 12,
@@ -129,7 +152,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 7,
-        "image_path": {"images": ["/images/music/beach-fossils-front.jpeg", "/images/music/beach-fossils-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/beach-fossils-front.jpeg",
+				"/images/music/beach-fossils-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 13,
@@ -140,7 +168,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 4,
-        "image_path": {"images": ["/images/music/do-nothing-zero-dollar-bill-front.jpeg", "/images/music/do-nothing-zero-dollar-bill-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/do-nothing-zero-dollar-bill-front.jpeg",
+				"/images/music/do-nothing-zero-dollar-bill-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 14,
@@ -151,7 +184,12 @@
 		"description": "description",
 		"price": 42,
 		"quantity": 5,
-        "image_path": { "images": ["/images/music/floodlights-from-a-view-front.jpeg", "/images/music/floodlights-from-a-view-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/floodlights-from-a-view-front.jpeg",
+				"/images/music/floodlights-from-a-view-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 15,
@@ -162,7 +200,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 7,
-        "image_path": { "images": ["/images/music/fontaines-dc-dogrel-front.jpeg", "/images/music/fontaines-dc-dogrel-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/fontaines-dc-dogrel-front.jpeg",
+				"/images/music/fontaines-dc-dogrel-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 16,
@@ -173,7 +216,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 7,
-        "image_path": {"images": ["/images/music/idles-joy-front.jpeg", "/images/music/idles-joy-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/idles-joy-front.jpeg",
+				"/images/music/idles-joy-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 17,
@@ -184,7 +232,9 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 4,
-        "image_path": {"images": ["/images/music/parquet-courts-light-up-gold.jpeg"]}
+		"image_path": {
+			"images": ["/images/music/parquet-courts-light-up-gold.jpeg"]
+		}
 	},
 	{
 		"id": 18,
@@ -195,7 +245,12 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 7,
-        "image_path": { "images": ["/images/music/parquet-courts-wide-awake-front.jpeg", "/images/music/parquet-courts-wide-awake-back.jpeg"]}
+		"image_path": {
+			"images": [
+				"/images/music/parquet-courts-wide-awake-front.jpeg",
+				"/images/music/parquet-courts-wide-awake-back.jpeg"
+			]
+		}
 	},
 	{
 		"id": 19,
@@ -206,7 +261,9 @@
 		"description": "description",
 		"price": 35,
 		"quantity": 3,
-        "image_path": {"images": ["/images/music/the-slingers-single-front.jpeg"]}
+		"image_path": {
+			"images": ["/images/music/the-slingers-single-front.jpeg"]
+		}
 	},
 	{
 		"id": 20,
@@ -217,6 +274,11 @@
 		"description": "description",
 		"price": 47,
 		"quantity": 7,
-        "image_path": {"images": ["/images/music/yard-act-the-overload-front.jpeg", "/images/music/yard-act-the-overload-back.jpeg"] }
+		"image_path": {
+			"images": [
+				"/images/music/yard-act-the-overload-front.jpeg",
+				"/images/music/yard-act-the-overload-back.jpeg"
+			]
+		}
 	}
 ]
